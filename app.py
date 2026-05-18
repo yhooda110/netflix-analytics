@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
 
 from preprocessing import load_data
 from recommender import recommendation_system
